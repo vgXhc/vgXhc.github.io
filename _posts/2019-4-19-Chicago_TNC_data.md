@@ -16,6 +16,14 @@ One amazing thing about the trip data is the trip length. I would have expected 
 # Trip hour
 Another question is when trips occur in the day. Here's the number of trips by hour of the day:
 
-
+![Trips by time of day (total)(/images/Trips_time_of_day_total.svg)
 
 Because weekday and weekend travel are probably different, it makes sense to look at them separately: 
+
+![Trips by time of day (weekday only)](/images/trips_time_of_day_weekday.svg)
+
+![Trips by time of day (weekend only)](/images/trips_time_of_day_weekend.svg)
+
+On weekdays, there is a pronounced morning rush peak, and then an much bigger pm rush peak; but even after rush hour, there are lot of trips all the way until midnight.
+
+On weekends, things ramp up quickly to peak at 6 pm, stay fairly constant, and then have an even larger spike at midnight to 1 am.
