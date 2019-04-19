@@ -5,7 +5,7 @@ title: Playing around with Chicago's Transportation Network Company dataset
 
 Chicago has made available a huge dataset of rideshare data from Uber and Lyft [on their Open Data portal](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips/m6dm-c72p). The data captures over 17 million individual rides, including information about start and end location, distance, time, and fares.
 
-[Streetsblog Chicago has some good analyses of the origin-destination data.(https://chi.streetsblog.org/2019/04/18/the-most-common-chicago-ride-hailing-trip-is-a-1-mile-hop-from-river-north-to-loop/)
+[Streetsblog Chicago has some good analyses of the origin-destination data.](https://chi.streetsblog.org/2019/04/18/the-most-common-chicago-ride-hailing-trip-is-a-1-mile-hop-from-river-north-to-loop/)
 
 I downloaded the full dataset and started playing around with it.
 
@@ -18,7 +18,7 @@ One amazing thing about the trip data is the trip length. I would have expected 
 # Trip hour
 Another question is when trips occur in the day. Here's the number of trips by hour of the day:
 
-![Trips by time of day (total)(/images/Trips_time_of_day_total.svg)
+![Trips by time of day (total)](/images/Trips_time_of_day_total.svg)
 
 Because weekday and weekend travel are probably different, it makes sense to look at them separately: 
 
