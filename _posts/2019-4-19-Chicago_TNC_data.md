@@ -7,7 +7,7 @@ Chicago has made available a huge dataset of rideshare data from Uber and Lyft [
 
 [Streetsblog Chicago has some good analyses of the origin-destination data.](https://chi.streetsblog.org/2019/04/18/the-most-common-chicago-ride-hailing-trip-is-a-1-mile-hop-from-river-north-to-loop/)
 
-I downloaded the full dataset and started playing around with it.
+I downloaded the full dataset and started playing around with it. Code in progress is on [Github](https://github.com/vgXhc/ChicagoRideShare)
 
 # Trip length
 
@@ -30,4 +30,5 @@ On weekdays, there is a pronounced morning rush peak, and then an much bigger pm
 
 On weekends, things ramp up quickly to peak at 6 pm, stay fairly constant, and then have an even larger spike at midnight to 1 am.
 
-More analyses to come.
+# What's next?
+More analyses to come. Next I'll try to add income data and see if there are interesting analyses to be done.
