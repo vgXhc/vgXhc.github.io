@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+My name is Harald. I like bikes, data, maps.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm president of the local bike advocacy non-profit [Madison Bikes](https://www.madisonbikes.org/), I work at the [University of Madison School of Medicine and Public Health](https://www.pediatrics.wisc.edu/research/research-groups/cox/), I contribute to [OpenStreetMap](https://www.openstreetmap.org).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kliems@gmail.com](mailto:kliems@gmail.com)
